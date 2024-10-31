@@ -1,0 +1,2 @@
+Note: 281 rows inserted
+Note: Activity configuration data uploaded successfully! 281 rows updated or inserted
